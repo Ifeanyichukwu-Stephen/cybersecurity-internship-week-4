@@ -23,7 +23,7 @@ This repository documents a practical web application security assessment coveri
 | **Prepared By** | Christopher Ifeanyichukwu Stephen |
 | **Program** | NetworkWalks Cybersecurity Internship, Batch B084 |
 
-Full write-up: [`docs/full-report.md`](docs/full-report.md)
+Full write-up: Mediroza_General_Hospital_Pentest_Report.docx
 
 ---
 
@@ -63,7 +63,7 @@ The assessment was carried out in four phases:
 3. **PDF Document Password Security Testing** — hash generation + dictionary attacks on 3 protected documents
 4. **Legacy Directory & SQL Backup Exposure** — public directory listing review, exposed backup analysis
 
-Full phase-by-phase detail, screenshots, and evidence are in [`docs/full-report.md`](docs/full-report.md).
+Full phase-by-phase detail, screenshots, and evidence are in Mediroza_General_Hospital_Pentest_Report.docx 
 
 ---
 
@@ -92,22 +92,11 @@ Full phase-by-phase detail, screenshots, and evidence are in [`docs/full-report.
 - Use prepared statements to guard against SQL injection
 - Establish continuous monitoring and periodic follow-up testing
 
-Full recommendations: [`docs/full-report.md#9-general-security-recommendations`](docs/full-report.md)
+Full recommendations: Mediroza_General_Hospital_Pentest_Report.docx
 
 ---
 
-## 📁 Repository Structure
 
-```
-.
-├── README.md              # This file — project summary
-├── docs/
-│   └── full-report.md     # Full technical report (methodology, findings, threat analysis)
-└── screenshots/
-    └── README.md           # Evidence index (screenshots redacted/excluded from public repo)
-```
-
----
 
 ## ⚖️ Ethics & Scope
 
@@ -121,4 +110,4 @@ This assessment was conducted under written client authorization, within an agre
 Cybersecurity Intern — NetworkWalks (Batch B084)
 Undergraduate Computer Science Student, Hezekiah University
 
-*Connect with me on [LinkedIn](#) for the full case-study post.*
+*Connect with me on [LinkedIn](www.linkedin.com/in/ifeanyidev001) for the full case-study post.*
