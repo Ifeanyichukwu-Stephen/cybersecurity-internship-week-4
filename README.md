@@ -23,7 +23,7 @@ This repository documents a practical web application security assessment coveri
 | **Prepared By** | Christopher Ifeanyichukwu Stephen |
 | **Program** | NetworkWalks Cybersecurity Internship, Batch B084 |
 
-Full write-up: Mediroza_General_Hospital_Pentest_Report.docx
+Full write-up: 📄 [Download the full report (Word)](docs/report.docx)
 
 ---
 
