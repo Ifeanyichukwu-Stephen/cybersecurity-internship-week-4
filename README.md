@@ -23,7 +23,7 @@ This repository documents a practical web application security assessment coveri
 | **Prepared By** | Christopher Ifeanyichukwu Stephen |
 | **Program** | NetworkWalks Cybersecurity Internship, Batch B084 |
 
-Full write-up: 📄 [Download the full report (Word)](docs/report.docx)
+Full write-up: 📄 [Download the full report (Word)](docs/Mediroza_General_Hospital_Pentest_Report.docx)
 
 ---
 
@@ -63,7 +63,7 @@ The assessment was carried out in four phases:
 3. **PDF Document Password Security Testing** — hash generation + dictionary attacks on 3 protected documents
 4. **Legacy Directory & SQL Backup Exposure** — public directory listing review, exposed backup analysis
 
-Full phase-by-phase detail, screenshots, and evidence are in Mediroza_General_Hospital_Pentest_Report.docx 
+Full phase-by-phase detail, screenshots, and evidence are in [Download the full report (Word)](docs/Mediroza_General_Hospital_Pentest_Report.docx) 
 
 ---
 
@@ -92,7 +92,7 @@ Full phase-by-phase detail, screenshots, and evidence are in Mediroza_General_Ho
 - Use prepared statements to guard against SQL injection
 - Establish continuous monitoring and periodic follow-up testing
 
-Full recommendations: Mediroza_General_Hospital_Pentest_Report.docx
+Full recommendations: [Download the full report (Word)](docs/Mediroza_General_Hospital_Pentest_Report.docx)
 
 ---
 
